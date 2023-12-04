@@ -1,0 +1,14 @@
+SOME_INT: 1
+SOME_FLOAT: 1.1
+SOME_UINT: 999
+SOME_VEC:
+  - "1"
+  - "2"
+  - "3"
+SOME_OBJ:
+  TEST_KEY_INT: 1
+  TEST_KEY_FLOAT: 1.1
+  TEST_KEY_VEC:
+    - "1"
+    - "2"
+    - "3"

@@ -1,0 +1,6 @@
+{
+    "someInt": 42,
+    "someFloat": 42.1,
+    "someString": "Hello World!",
+    "someVec": ["1", "2", "3"]
+}
